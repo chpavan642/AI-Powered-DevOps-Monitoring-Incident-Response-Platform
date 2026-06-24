@@ -1,8 +1,8 @@
 # AI-Powered-DevOps-Monitoring-Incident-Response-Platform
 
-> **Monitor. Detect. Respond.**
->
-> An AI-powered DevOps Monitoring & Incident Response Platform that helps engineering teams monitor applications, analyze logs using Google Gemini AI, automatically detect incidents, generate alerts, and visualize infrastructure health through a centralized dashboard.
+**Monitor. Detect. Respond.**
+
+An AI-powered DevOps Monitoring & Incident Response Platform that helps engineering teams monitor applications, analyze logs using Google Gemini AI, automatically detect incidents, generate alerts, and visualize infrastructure health through a centralized dashboard.
 
 ---
 
